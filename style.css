@@ -1,0 +1,10 @@
+body{
+    background-image: linear-gradient(to right, rgba(241, 107, 107, 0.034), yellow);
+}
+.heading{
+    font-size: 50px;
+    text-align: center;
+    font-family: Righteous;
+    color: rgb(0, 0, 0);
+    text-shadow: 1px #111111;
+}
